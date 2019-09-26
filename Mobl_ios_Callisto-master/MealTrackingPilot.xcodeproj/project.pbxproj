@@ -1513,6 +1513,8 @@
 				"${SRCROOT}/Pods/Target Support Files/Pods-MealTrackingPilot/Pods-MealTrackingPilot-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
 				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/IP-UIKit-Wisdom/IP_UIKit_Wisdom.framework",
+				"${BUILT_PRODUCTS_DIR}/Intrepid/Intrepid.framework",
 				"${BUILT_PRODUCTS_DIR}/KeychainAccess/KeychainAccess.framework",
 				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
 				"${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework",
@@ -1539,7 +1541,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MealTrackingPilot/Pods-MealTrackingPilot-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MealTrackingPilot/Pods-MealTrackingPilot-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		CA0A8BA17BBBFB4EBE2D7FB8 /* [CP] Embed Pods Frameworks */ = {
